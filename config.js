@@ -1,4 +1,4 @@
-module.exports = {telegraf_token:'1240900504:AAEARUVPOXmPxhfLdeohCrQZp9XYyV773AI',
-database:'mongodb+srv://haidara:abujaafar420haidara420@@--##@cluster0-r9zio.mongodb.net/test?retryWrites=true&w=majority',
+module.exports = {telegraf_token:'1059337018:AAEldXp5Ylq3whG59w0ZmUGHcSaFzRbT4j8',
+database:'mongo "mongodb+srv://cluster0-r9zio.mongodb.net/test"  --username haidara',
 secret:'abujaafar420haidara420@@--##'};
 
